@@ -130,6 +130,7 @@
   font-family: var(--font1);
   font-size: 16px;
   color: #000000;
+  width: 140px;
 }
 .global img {
   width: 16px;
